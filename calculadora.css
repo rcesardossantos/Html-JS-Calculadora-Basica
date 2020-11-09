@@ -1,0 +1,47 @@
+#visor {
+  background-color: #2b5b2c;
+  text-align: right;
+  color: #fff;
+  border-radius: 10px;
+}
+
+table {
+   margin: 0 auto 0 auto;
+}
+
+form fieldset {
+   margin: 10px auto 10px auto;
+   width: 40%;
+   border: solid black 1px;
+   margin-bottom: 10px;
+   border-radius: 20px;
+}
+
+form input {
+   width: 100%;
+   height: 50px;
+   border: solid #ccc 1px;
+   font-size: 30px;
+   margin-bottom: 10px;
+}
+
+form input.num {
+   display: block;
+   width: 60px;
+   height: 60px;
+   border-radius: 10px;
+}
+
+form input.oper {
+   display: block;
+   width: 60px;
+   height: 60px;
+   background-color: #b2b2b2;
+   border-radius: 10px;
+}
+
+.legendaCalc {
+  font-family: SANS-SERIF;
+  font-size: 25px;
+  font-weight: bold;
+} 
